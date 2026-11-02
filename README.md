@@ -32,11 +32,11 @@ When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating c
 
 - "Aspiring Data Analyst | Currently Learning Data Analytics | Excel | SQL | Power BI | Python"
 - 📊 Data Analytics
-  📈 Microsoft Excel
-  🗄️ SQL
-  📊 Power BI
-  🐍 Python
-  📉 Data Visualization and Data Cleaning
+- 📈 Microsoft Excel
+- 🗄️ SQL
+- 📊 Power BI
+- 🐍 Python
+- 📉 Data Visualization and Data Cleaning
 
 I am continuously learning and improving my data analytics skills through hands-on practice and real-world projects.
 
@@ -61,8 +61,8 @@ I am continuously learning and improving my data analytics skills through hands-
 
 #### Business Intelligence & Analytics
 <p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
+  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="">
+  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt=" Skill Badge">
+  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Skill Badge">
+  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="Skill Badge">
 </p>
