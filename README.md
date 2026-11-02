@@ -3,7 +3,7 @@
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;[Your+Specialty+Here];[Your+Experience+or+Tagline]" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;[Your+Specialty+Here];[Searching New Things]" alt="Typing SVG" />
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
@@ -30,8 +30,15 @@ When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating c
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- "Aspiring Data Analyst | Currently Learning Data Analytics | Excel | SQL | Power BI | Python"
+- 📊 Data Analytics
+  📈 Microsoft Excel
+  🗄️ SQL
+  📊 Power BI
+  🐍 Python
+  📉 Data Visualization and Data Cleaning
+
+I am continuously learning and improving my data analytics skills through hands-on practice and real-world projects.
 
 ## 🛠️ Technical Skillset
 
