@@ -59,4 +59,12 @@ I am continuously learning and improving my data analytics skills through hands-
   <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
 </p>
 
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Siva%20Nilla-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/pawan-daroge)  
+[![Gmail](https://img.shields.io/badge/Gmail-pawandaroge@gmail.com-red?logo=gmail&style=for-the-badge)](mailto:pawandaroge@gmail.com)  
+---
+
+Thanks for visiting!
+Let’s turn data into decisions and design into impact — one insight and one visual at a time💡
 
