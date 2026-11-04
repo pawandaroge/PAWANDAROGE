@@ -61,7 +61,7 @@ I am continuously learning and improving my data analytics skills through hands-
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Siva%20Nilla-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/pawan-daroge)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pawan%20daroge-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/pawan-daroge)  
 [![Gmail](https://img.shields.io/badge/Gmail-pawandaroge@gmail.com-red?logo=gmail&style=for-the-badge)](mailto:pawandaroge@gmail.com)  
 ---
 
