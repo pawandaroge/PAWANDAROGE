@@ -19,15 +19,15 @@ My focus is on building dashboards that get used, automating repetitive tasks to
 
 When I'm not working with data, 
 I enjoy-
-Hiking: I enjoy exploring nature, discovering new places, and staying active.
+**Hiking:** I enjoy exploring nature, discovering new places, and staying active.
 
-Photography: I love capturing beautiful moments and expressing creativity through pictures.
+**Photography:** I love capturing beautiful moments and expressing creativity through pictures.
 
-Riding: I enjoy with my Bike & this moment was beautiful.
+**Riding:** I enjoy with my Bike & this moment was beautiful.
 
-Mentoring: I love guiding and helping others learn, grow, and achieve their goals.
+**Mentoring:** I love guiding and helping others learn, grow, and achieve their goals.
 
-Cooking: I enjoy experimenting with new recipes and creating delicious dishes. I love the "aha!" moment when data reveals something new and useful.
+**Cooking:** I enjoy experimenting with new recipes and creating delicious dishes. I love the "aha!" moment when data reveals something new and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
